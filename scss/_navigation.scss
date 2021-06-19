@@ -1,0 +1,11 @@
+#pma_navigation {
+  width: $navi-width;
+  position: fixed;
+  top: 0;
+  #{$left}: 0;
+  height: 100vh;
+  background-color: $navi-background;
+  color: $navi-color;
+  z-index: 800;
+  box-shadow: $navi-shadow;
+}

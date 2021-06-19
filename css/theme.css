@@ -1,0 +1,13 @@
+#pma_navigation {
+  width: 240px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  background-color: #ffffff;
+  color: #000;
+  z-index: 800;
+  box-shadow: 0 5px 10px rgba(101, 101, 101, 0.16);
+}
+
+/*# sourceMappingURL=theme.css.map */
